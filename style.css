@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    background-image: linear-gradient(to right, #f7860c,#22f222,#f2e013);
+}
+
+.img2 {
+    height: 900px;
+    width: 900px;
+}
+
+#myCarousel img
+{
+    height: 850px;
+    width:400px;
+       }
+
+.carousel-inner p
+{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color : white;
+    font-size: 20px;
+}
+.contact_1{
+    height:900px;
+    width:500px;
+    font-size:50px;
+}
+iframe{
+    height:900px;
+    width:700px;
+}
